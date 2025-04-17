@@ -4,7 +4,7 @@
 
 ```
 Username: Rakesh
-Password: Rakesh@2024
+Password: Raki@123
 ```
 
 SEO - Parameters that has to be in index.html of dist folder
